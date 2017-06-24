@@ -24,7 +24,7 @@
 
 ```
 f=open('test.txt','w')
-f.write(str(ite))
+f.write(str(ite)).
 f.close()
 ```
 
